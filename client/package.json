@@ -9,7 +9,6 @@
     "codegen": "graphql-codegen"
   },
   "dependencies": {
-    "@apollo/client": "^3.6.5",
     "@graphql-codegen/cli": "^2.6.2",
     "@graphql-codegen/typed-document-node": "^2.2.11",
     "@graphql-codegen/typescript": "^2.4.11",
@@ -17,7 +16,7 @@
     "graphql": "^16.5.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-icons": "^4.3.1"
+    "urql": "^2.2.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
